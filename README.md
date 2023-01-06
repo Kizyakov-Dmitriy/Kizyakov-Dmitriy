@@ -7,7 +7,7 @@ My name is Kizyakov Dmitriy (Кизяков Дмитрий). I`m a Junior (Inter
 
 Currently studing in Finencial University 
 
-Living in Moskow, Russia
+Living in Moscow, Russia
 
 
 ## I’m currently working with
